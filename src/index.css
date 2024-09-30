@@ -16,5 +16,8 @@
     .followCircle{
       @apply bg-black dark:bg-white;
     }
+    .Email{
+      @apply text-black dark:text-gray-700;
+    }
     
   }
