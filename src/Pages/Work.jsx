@@ -3,7 +3,7 @@ import Hero from '../Component/Hero'
 import Button from '../Component/Button'
 import Work1 from  '../assets/work1.svg'
 import Work2 from  '../assets/work2.svg'
-import subImage from '../assets/subimage2.svg'
+import subImage from '../assets/subImage2.svg'
 import Box from '../Component/Box'
 function Work() {
     const workDetails= [
