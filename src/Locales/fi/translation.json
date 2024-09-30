@@ -1,0 +1,61 @@
+{
+  "pageTitle": "LUOVUUS",
+  "menuOptions": {
+    "services": "Palvelut",
+    "work": "Työ",
+    "latest": "Viimeisimmät",
+    "ourStory": "Tarinaamme",
+    "careers": "Urat",
+    "requestForProposal": "Tarjouspyyntö",
+    "contact": "Yhteystiedot"
+  },
+  "mainHeading": "Missä luovuus kohtaa strategian - Laajenna tavoittavuuttasi strategisen suunnittelun ja markkinointiosaamisemme avulla.",
+  "quoteButton": "Pyydä tarjous",
+  "servicesHeading": "Palvelumme",
+ "servicesDescription1": "Suunnittele, rakenna ja kasvata",
+  "servicesDescription2": "Verkkokauppaliiketoiminta meidän",
+  "servicesDescription3": "Huolellisesti räätälöidyt palvelut",
+  "Design": {
+    "title": "Suunnittelu",
+    "category": "Verkkokauppa",
+    "description": "Hyvä suunnittelu on asiakaskokemuksen ja myynnin selkäranka. Siksi luomme visuaalisesti upeita ja asiakaslähtöisiä suunnitelmia asiantuntemuksen ja datan pohjalta."
+  },
+  "Development": {
+    "title": "Kehitys",
+    "category": "Verkkokauppa",
+    "description": "Rakenna verkkokauppasi skaalautuvilla ratkaisuilla, jotka toimivat yksinkertaisesti. Yhdistämme vahvan koodin moderneihin teknologioihin, jotta voit keskittyä liiketoimintaasi, ei taustaohjelmistoihin."
+  },
+  "Support": {
+    "title": "Tuki ja ylläpito",
+    "category": "Verkkokauppa",
+    "description": "Olemme mukana pitkällä aikavälillä. Ylläpitopalvelumme varmistavat, että verkkoliiketoimintasi on hyvin hoidettu, optimoitu ja aina kasvussa."
+  },
+  "Strategy": {
+    "title": "Strategia ja konsultointi",
+    "category": "Verkkokauppa",
+    "description": "Hyvä strategia on puolet taistelusta. Yhdessä varmistamme, että projektisi on hyvin perusteltu ja suunniteltu alusta lähtien."
+  },
+    "Energy Company": {
+      "MainTitle" : "Tuorein Työmme",
+      "title": "Energiayhtiö",
+      "description": "Lämmönkulutuksen ennusteet tekoälyn avulla."
+    },
+    "Retta": {
+      "title": "Retta",
+      "description": "Asuntojen vuokraus verkkokauppa Retalle."
+    },
+    "Pride Helsinki": {
+      "title": "Pride Helsinki",
+      "description": "Ihmisoikeusjärjestön strategian uudistus."
+    },
+    "St1 Business": {
+      "title": "St1 Business",
+      "description": "Sujuvammat digitaaliset tapahtumat yritysasiakkaille."
+    }
+  
+  }
+  
+    
+
+
+

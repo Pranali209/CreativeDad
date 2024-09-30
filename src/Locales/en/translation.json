@@ -1,0 +1,60 @@
+{
+  "pageTitle": "CREATIVIDAD",
+  "menuOptions": {
+    "services": "Services",
+    "work": "Work",
+    "latest": "Latest",
+    "ourStory": "Our Story",
+    "careers": "Careers",
+    "requestForProposal": "Request for proposal",
+    "contact": "Contact"
+  },
+  
+  "mainHeading": "Where creativity meets strategy - Expand your reach with our strategic design and marketing expertise.",
+  "quoteButton": "Get a quote",
+  "servicesHeading": "Our services",
+  "servicesDescription1": "Plan, build, and grow your ",
+  "servicesDescription2": "eCommerce business with our",
+  "servicesDescription3": "carefully tailored services",
+  "Design": {
+    "title": "Design",
+    "category": "eCommerce",
+    "description": "Great design is the backbone of customer experience and sales. That's why we craft visually stunning and customer centered designs based on expertise and data."
+  },
+  "Development": {
+    "title": "Development",
+    "category": "eCommerce",
+    "description": "Build your eCommerce on scalable solutions that simply work. We pair robust code with modern technologies, so you can focus on your business, not your backend."
+  },
+  "Support": {
+    "title": "Support & Maintenance",
+    "category": "eCommerce",
+    "description": "We are in it for the long run. Our maintenance services ensure that your online business is well-maintained, optimized, and always up for growth."
+  },
+  "Strategy": {
+    "title": "Strategy & Consulting",
+    "category": "eCommerce",
+    "description": "A good strategy is half the battle. Together we make sure that your project is well-reasoned and planned from the get go."
+  },
+  "Energy Company": {
+      "MainTitle" : "Our Fresh Work",
+      "title": "Energy Company",
+      "description": "Predictions of heat consumption with Artificial Intelligence."
+    },
+    "Retta": {
+      "title": "Retta",
+      "description": "Apartment rental online store for Retta."
+    },
+    "Pride Helsinki": {
+      "title": "Pride Helsinki",
+      
+      "description": "Strategy reform of the human rights organization."
+    },
+    "St1 Business": {
+      "title": "St1 Business",
+     
+      "description": "Smoother digital transactions for business customers."
+    }
+    
+
+}

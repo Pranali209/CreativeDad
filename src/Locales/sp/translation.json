@@ -1,0 +1,59 @@
+{
+    "pageTitle": "CREATIVIDAD",
+    "menuOptions": {
+      "services": "Servicios",
+      "work": "Trabajo",
+      "latest": "Últimas",
+      "ourStory": "Nuestra Historia",
+      "careers": "Carreras",
+      "requestForProposal": "Solicitud de propuesta",
+      "contact": "Contacto"
+    },
+    
+    "mainHeading": "Donde la creatividad se encuentra con la estrategia: Expanda su alcance con nuestra experiencia en diseño estratégico y marketing.",
+    "quoteButton": "Obtener una cotización",
+    "servicesHeading": "Nuestros servicios",
+    "servicesDescription1": "Planifique, construya y haga crecer su ",
+    "servicesDescription2": "negocio de comercio electrónico con nuestros",
+    "servicesDescription3": "servicios cuidadosamente personalizados",
+    "Design": {
+      "title": "Diseño",
+      "category": "Comercio Electrónico",
+      "description": "Un buen diseño es la columna vertebral de la experiencia del cliente y las ventas. Por eso creamos diseños visualmente impresionantes y centrados en el cliente basados en experiencia y datos."
+    },
+    "Development": {
+      "title": "Desarrollo",
+      "category": "Comercio Electrónico",
+      "description": "Construye tu comercio electrónico con soluciones escalables que simplemente funcionan. Combinamos código robusto con tecnologías modernas para que puedas centrarte en tu negocio, no en el backend."
+    },
+    "Support": {
+      "title": "Soporte y Mantenimiento",
+      "category": "Comercio Electrónico",
+      "description": "Estamos aquí a largo plazo. Nuestros servicios de mantenimiento aseguran que tu negocio en línea esté bien mantenido, optimizado y siempre listo para crecer."
+    },
+    "Strategy": {
+      "title": "Estrategia y Consultoría",
+      "category": "Comercio Electrónico",
+      "description": "Una buena estrategia es la mitad de la batalla. Juntos nos aseguramos de que tu proyecto esté bien fundamentado y planificado desde el principio."
+    },
+    "Energy Company": 
+    { 
+    "MainTitle" : "Nuestro Trabajo Fresco",
+     "title": "Compañía Energética", 
+     "description": "Predicciones de consumo de calor con Inteligencia Artificial." 
+     }, 
+     "Retta": 
+     { "title": "Retta", 
+     "description": "Tienda en línea de alquiler de apartamentos para Retta."
+      }, 
+      "Pride Helsinki":
+       { 
+        "title": "Pride Helsinki", 
+        "description": "Reforma de la estrategia de la organización de derechos humanos." 
+        }, 
+        "St1 Business": 
+        { "title": "St1 Business", 
+        "description": "Transacciones digitales más fluidas para clientes empresariales."
+       }
+  }
+  

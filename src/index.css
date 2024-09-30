@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    div , select  {
+      @apply bg-white dark:bg-black text-black  dark:text-white  ;
+    }
+      .Input  {
+      @apply border-black dark:border-white;
+    }
+   .TextArea, #ButtonMain {
+      @apply border-black dark:border-white;
+    }
+    .followCircle{
+      @apply bg-black dark:bg-white;
+    }
+    
+  }

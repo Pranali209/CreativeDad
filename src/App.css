@@ -1,0 +1,28 @@
+@keyframes scroll {
+    from {
+        width: 0%;
+      }
+      to {
+        width: 100%;
+      }
+    
+  }
+
+  .enable-animation-left {
+    animation: scroll 10s ease-in-out infinite;
+  }
+
+  @keyframes moveRight {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+  
+  .enable-animation-right {
+    animation: moveRight 10s ease-in-out infinite;
+  }
+
+  
