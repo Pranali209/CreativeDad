@@ -16,7 +16,7 @@ function Contact({ showpopup, onClick  }) {
                             <Header className="w-full absolute top-0 left-0 " />
                             <p className='text-white text-[20px]'>Just Say Hi At</p>
                             <a href={`mailto:hello@creativdad.com`} className='text-white  text-[30px]'>
-                                hello@<span className='text-gray-500 hover:text-white'>creativdad.com</span></a>
+                                hello@<span className='text-gray-500  hover:text-white'>creativdad.com</span></a>
                             <Button className="bg-white w-fit  mt-4
     text-black px-4 py-1 rounded-md transition-all duration-200 ease-in-out
      hover:bg-gray-200 focus:outline-none focus:ring-2  hover:scale-75  active:shadow-inner"
