@@ -4,7 +4,7 @@ function Brands() {
   return (
     <div>
         <div>
-           <div className=' w-full text-black '>
+           <div className=' w-full text-black max-md:overflow-hidden '>
            <h2 className=' text-[33px]  max-md:text-[23px] flex justify-evenly enable-animation-left  '>  
              <span className='max-md:mr-2' >iLOQ </span>
              <span className='max-md:mr-2'> Brella </span>
@@ -18,7 +18,7 @@ function Brands() {
            
         </div>
         <div>
-           <div className=' w-full text-black '>
+           <div className=' w-full text-black max-md:overflow-hidden '>
            <h2 className=' text-[33px] max-md:text-[23px]  flex justify-evenly enable-animation-right'>  
              <span className='max-md:mr-2'>iLOQ </span>
              <span className='max-md:mr-2'> Brella </span>

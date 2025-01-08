@@ -4,7 +4,7 @@ import Button from '../Button'
 function FormComp() {
   return (
     <form action="">
-      <div className="grid grid-cols-2 gap-4">
+      <div className="grid grid-cols-2 gap-4 max-md:gap-3 ">
       
       <div>
         <label for="firstName" className="block text-sm font-medium text-gray-700">First Name</label>

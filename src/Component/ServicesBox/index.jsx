@@ -51,8 +51,8 @@ function ServiceBox({ id, icon, title, description }) {
 
                 </div>
                 <p className="text-sm text-gray-600 mt-5 mb-3">0{id} /{t('Design.category')} </p>
-                <p className="mb-20">{description}</p>
-                <hr className="border-gray-300 w-full mb-8" />
+                <p className="mb-20 max-md:mb-10">{description}</p>
+                <hr className="border-gray-300 w-full mb-8 max-md:mb-4" />
             </div>
 
         </>

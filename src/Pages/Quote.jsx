@@ -12,7 +12,7 @@ function Quote() {
   des =  "Are you planning a marketing project? By sending us a request for proposal, you can get a concrete idea of how we could work together."/>
 <div className=''>
 <hr className='border-[2px] border-gray-200 w-[80%] ml-[4.5rem] max-md:ml-[2rem]' />
-    <div className=" max-w-[1000px] p-14  ">
+    <div className=" max-w-[1000px] p-14 max-md:p-7 ">
     <h2 className="text-[17px] font-bold mb-4">I would like a quote for the following services</h2>
     <div className='mb-4'>
         <label  

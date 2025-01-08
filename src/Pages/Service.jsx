@@ -12,15 +12,15 @@ function Service() {
           <hr className='border-[2px] border-gray-200 w-[80%] ml-[4.5rem] max-md:ml-[2rem]' />
             <div className='p-[5.5rem] max-md:p-[2rem]'>
                 <h2 className=" text-[26px] font-medium mb-8 max-md:mb-4">  What We Offer</h2>
-                <div className='  flex justify-around max-md:flex-col '>
+                <div className='  flex justify-around  '>
 
-                    <div className=' mt-10 max-md:mt-5 '>
-                        <h2 className='text-[25px] font-semibold mb-3'>User Centric Design</h2>
-                        <p className='text-gray-500 mb-5'>We focus on your audience, crafting designs that are easy <br /> to navigate and delightful to use.</p>
+                    <div className=' mt-10 max-md:mt-5 max-md:w-[50%] '>
+                        <h2 className='text-[25px] max-md:text-[15px] font-semibold mb-3 max-md:mb-1'>User Centric Design</h2>
+                        <p className='text-gray-500 mb-5 max-md:text-[10px] max-md:mb-2'>We focus on your audience, crafting designs that are easy <br /> to navigate and delightful to use.</p>
                         <Button className='p-[0.37rem] text-[13px] bg-black text-white mr-2 text-center rounded-md ' txt ="BRAND"/>
                         <Button className='p-[0.37rem] text-[13px] bg-black text-white mr-2 text-center rounded-md ' txt ="WEBSITE"/>
                     </div>
-                    <div className=' '>
+                    <div className=' max-md:w-[50%] '>
                         <img src={ServiceImage} alt="" className='  w-[460px] h-[205px]' />
                     </div>
                 </div>
